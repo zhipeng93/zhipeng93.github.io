@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- Peking University, NC&IS.
+    - Sep 2015 - June 2020.
+    - I got my PhD degree under the superivision of Prof. [Bin Cui](http://net.pku.edu.cn/~cuibin/).
+- Shandong Univerisity, Taishan College
+    - Sep 2011 - June 2015.
+    - I got my B.S degree in computer science and technology under the superivision of Prof. [Xiaohui Yu](https://www.cs.sdu.edu.cn/info/1075/2855.htm).
+
+Research Interests
+======
+Big data systems, machine learning systems, graph computing systems. 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Software engineer @Alibaba (July 2020 - Now)
+    - Project: Usabiblity and Robustness of Alink.
+    - Project: Co-found machine learning on Flink.
+- Intern@Tencent (Nov 2018 - Nov 2019)
+  - Project: Accelerating distributed graph embedding using Spark/Angel.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+- Visiting ETH (July 2017 - Jan 2018)
+    - Project: Accelerating distributed machine learning on Spark.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Programming
+    - Java, Python, C++, Bash, LATEX,
+- Open-source System:
+    - Flink, Spark, Angel, Parameter Servers
+    - TensorFlow, PyTorch Petuum, MXNet
+- System analysis
+    - Performance tunning & optimization
 
 Publications
 ======
@@ -42,18 +49,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+- Co-founder & core contributor of FlinkML.
