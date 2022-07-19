@@ -43,6 +43,18 @@ Skills
 
 Publications
 ======
+- **Zhipeng Zhang**, Wentao Wu, Jiawei Jiang, Lele Yu, Bin Cui, Ce Zhang, ColumnSGD: A Column-oriented Framework for Distributed Stochastic Gradient Descent [CCF-A, ICDE 2020]
+- **Zhipeng Zhang**, Bin Cui, Yingxia Shao, Lele Yu, Jiawei Jiang, Xupeng Miao, PS2: Parameter Server on Spark [CCF-A, SIGMOD Industry 2019] 
+- **Zhipeng Zhang**, Jiawei Jiang, Wentao Wu, Ce Zhang, Lele Yu, Bin Cui. MLlib*: Fast Training of GLMs using Spark MLlib [CCF-A, ICDE Industry 2019] 
+- **Zhipeng Zhang**, Jiawei Jiang, Lele Yu, Bin Cui. Angel+: A Large-Scale Machine Learning Platform on Angel [Frontiers of Data and Computing. 2019]
+- **Zhipeng Zhang**g, Yingxia Shao, Bin Cui, Ce Zhang. An Experimental Evaluation of SimRankbased Similarity Search Algorithms [CCF-A, VLDB 2017]
+- Yunyan Guo, **Zhipeng Zhang**, Wentao Wu, Jiawei Jiang,Ce zhang, Bin Cui, Jianzhong Li, Model Averaging in Distributed Machine Learning: A Case Study with Apache Spark [Submitted to VLDBJ 2021]
+- Xiaoru Qu, Zhao Li, Jialin Wang, **Zhipeng Zhang**, …, Jun Gao. Category-aware Graph Neural Networks for Improving E-commerce Review Helpfulness Prediction. [CIKM 2020, CCF-B]
+- Jiawei Jiang, Pin Xiao, Lele Yu, Xiaosen Li, Jiefeng Cheng, Xupeng Miao, **Zhipeng Zhang**, Bin Cui. PSGraph: How Tencent trains large-scale graphs with Spark? [CCF-A, ICDE 2020]
+- Xinyi Zhang, **Zhipeng Zhang**, Bin Cui. An Reinforcement Learning-based Method for Join Optimization. [CCF-C, NDBC 2020, Best Student Paper]
+- Jiawei Jiang, **Zhipeng Zhang**, Bin Cui, Yunhai Tong, Ning Xu, StroMAX: Partitioning-based Scheduler for Real-time Stream Processing System [CCF B, DASFAA 2017] 
+- Shuyang Shi, **Zhipeng Zhang**, Bin Cui. Resume Activeness Prediction in Online Recruitment Scenarios [CCF C, NDBC 2017]
+
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
