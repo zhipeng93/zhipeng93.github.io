@@ -27,6 +27,10 @@ Open Source Projects
 ======
 - Committer of Apache Flink.
 
+News
+======
+- I gave a talk at ApacheCon Asia 2022 about [Flink ML](https://apachecon.com/acasia2022/zh/sessions/ai-1145.html).
+
 Work experience
 ======
 - Software engineer @Alibaba (July 2020 - Now)
